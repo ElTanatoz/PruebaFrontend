@@ -23,7 +23,7 @@ Asegúrate de tener Node.js (v18+) instalado.
 
 1.  Clona el repositorio:
     bash
-    git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+    git clone [[https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)](https://github.com/ElTanatoz/PruebaFrontend.git)
     cd nombre-del-repo
     
 
@@ -45,15 +45,11 @@ bash
 npm run test
 
 
-Criterios de Cumplimiento y Decisiones de Diseño
 
-Aquí es donde demuestras que cumpliste con los requerimientos de la prueba.-----------------------------------------------------------------
-
-
-## ✅ Cumplimiento de Requisitos
+Cumplimiento de Requisitos
 
 - Listado y Detalle: La aplicación muestra una tabla de usuarios con filtros y una vista de detalle completa.
 - Estado de Carga y Error: Se muestran mensajes claros durante la carga de datos y en caso de errores.
 - Búsqueda y Filtro: La funcionalidad de búsqueda por nombre y filtro por ciudad funciona correctamente en el cliente.
 - Diseño Responsive y Accesibilidad: El diseño es adaptable a diferentes tamaños de pantalla (mobile-first) y permite la navegación por teclado.
-- Estructura y Mantenimiento: El proyecto sigue una estructura modular (`componentes`, `paginas`, `servicios`, `hooks`) para facilitar su mantenimiento.
+- Estructura y Mantenimiento: El proyecto sigue una estructura modular (componentes, paginas, servicios, hooks) para facilitar su mantenimiento.
